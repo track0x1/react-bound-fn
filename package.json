@@ -1,0 +1,27 @@
+{
+  "name": "react-bound-fn",
+  "version": "1.0.0",
+  "description": "Gets bound React functions so you can stub/spy on them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/track0x1/react-bound-fn.git"
+  },
+  "keywords": [
+    "react",
+    "bound",
+    "function",
+    "sinon",
+    "stub",
+    "spy"
+  ],
+  "author": "Tom Beute <beute.thomas@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/track0x1/react-bound-fn/issues"
+  },
+  "homepage": "https://github.com/track0x1/react-bound-fn#readme"
+}
